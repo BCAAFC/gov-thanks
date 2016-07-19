@@ -1,0 +1,36 @@
+# Site settings
+title: Gathering Our Voices Aboriginal Youth Conference
+author: Della Preston
+email: dpreston@bcaafc.com
+description: >
+    The BC Association of Aboriginal Friendship Centres and the Provincial Aboriginal Youth Council with co-host the Victoria Native Friendship Centre would like to thank our Event Partners and Presenters for 2016.
+url: "https://gatheringourvoices.bcaafc.com"
+baseurl: ""
+
+# Media
+cover: "/assets/images/cover.jpg"
+logo: "/assets/images/logo.png"
+
+# Build settings
+paginate: 10
+paginate_path: "/archive/:num"
+markdown: redcarpet
+redcarpet:
+    extensions:
+        - with_toc_data
+highlighter: rouge
+permalink: pretty
+exclude: ["_drafts"]
+sass:
+    style: compressed
+
+# Tagging
+tag_page_layout: tag
+tag_page_dir: tag
+tag_permalink_style: pretty
+
+# social icons and sharing options
+twitter_username: GOV_Conference
+github_username: bcaafc
+facebook_username: gatheringourvoices
+mailing_list: http://bcaafc.us5.list-manage.com/subscribe?u=2df229be67a6e024a5c741916&id=f98ad81590

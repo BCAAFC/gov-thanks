@@ -1,0 +1,7 @@
+---
+layout: page
+title: About
+---
+
+The Gathering Our Voices Aboriginal Youth Conference is hosted by the BC Association of Aboriginal Friendship Centres (BCAAFC) and their Provincial Aboriginal Youth Council (BCAAFC - PAYC). The BCAAFC has previously hosted thirteen Aboriginal Youth Conferences. Youth delegates and chaperones from all over B.C. and the country travel at their own expense to attend these conferences. The purpose of these conferences is to unite youth throughout the country in learning, healing and sharing and to provide tangible experiences of tools, resources and knowledge that the youth can bring back to their communities.
+The first two conferences hosted over 100 youth attendees, while the third saw attendance triple to over 460 youth delegates. The fourth and fifth conferences doubled attendance to over 800 youth. The 2008 Conference in Victoria had nearly 1000 people in attendance; the 2009 Conference in Kelowna had 1300 people attend; the 2010 Conference in Vancouver and the 2011 Conference in Prince Rupert, over 1500 people took part, in Nanaimo over 1600 people gathered together, in Penticton more than 2000 people participated, in Vancouver we saw more than 2200 participants and our most recent brought together over 1600 participants.  This overwhelming response serves to reinforce the need for a forum where Aboriginal youth can come together to begin to make positive changes in their own lives and in their communities.
