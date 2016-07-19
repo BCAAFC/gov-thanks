@@ -25,12 +25,12 @@
     {% if page.title %}
         <meta name="twitter:title" content="{{ page.title | escape }}">
     {% else %}
-        <meta name="twitter:title" content="Hoverbear.org">
+        <meta name="twitter:title" content="{{ site.title | escape }}">
     {% endif %}
     {% if page.excerpt %}
         <meta name="twitter:description" content="{{ page.excerpt | escape }}">
     {% else %}
-        <meta name="twitter:description" content="Musing of a Hoverbear.">
+        <meta name="twitter:description" content="{{ site.description }}">
     {% endif %}
 
     <!-- Talk about the homepage and the rss feed. -->
